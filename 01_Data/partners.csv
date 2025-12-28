@@ -1,0 +1,101 @@
+Partner_ID,Partner_Name,Region,Partner_Type,Onboarding_Date
+P001,Partner_1,Cyberabad,Home Care Agency,26-11-2024
+P002,Partner_2,Outskirts,Home Care Agency,29-02-2024
+P003,Partner_3,Hyderabad,Home Care Agency,19-03-2024
+P004,Partner_4,Cyberabad,Home Care Agency,14-11-2024
+P005,Partner_5,Cyberabad,Diagnostic Center,31-12-2024
+P006,Partner_6,Outskirts,Home Care Agency,20-07-2024
+P007,Partner_7,Hyderabad,Diagnostic Center,24-09-2024
+P008,Partner_8,Hyderabad,Diagnostic Center,12-05-2024
+P009,Partner_9,Cyberabad,Diagnostic Center,08-11-2024
+P010,Partner_10,Secunderabad,Diagnostic Center,25-12-2024
+P011,Partner_11,Cyberabad,Diagnostic Center,05-12-2024
+P012,Partner_12,Cyberabad,Diagnostic Center,21-04-2024
+P013,Partner_13,Cyberabad,Home Care Agency,27-04-2024
+P014,Partner_14,Cyberabad,Diagnostic Center,12-08-2024
+P015,Partner_15,Outskirts,Diagnostic Center,26-12-2024
+P016,Partner_16,Hyderabad,Diagnostic Center,23-08-2024
+P017,Partner_17,Outskirts,Diagnostic Center,29-12-2024
+P018,Partner_18,Outskirts,Home Care Agency,31-12-2024
+P019,Partner_19,Outskirts,Diagnostic Center,26-12-2024
+P020,Partner_20,Cyberabad,Home Care Agency,03-02-2024
+P021,Partner_21,Secunderabad,Home Care Agency,17-01-2024
+P022,Partner_22,Hyderabad,Diagnostic Center,09-12-2024
+P023,Partner_23,Secunderabad,Diagnostic Center,01-04-2024
+P024,Partner_24,Outskirts,Home Care Agency,29-04-2024
+P025,Partner_25,Outskirts,Home Care Agency,04-07-2024
+P026,Partner_26,Secunderabad,Home Care Agency,16-10-2024
+P027,Partner_27,Secunderabad,Home Care Agency,11-12-2024
+P028,Partner_28,Secunderabad,Diagnostic Center,06-11-2024
+P029,Partner_29,Outskirts,Diagnostic Center,25-10-2024
+P030,Partner_30,Outskirts,Diagnostic Center,10-05-2024
+P031,Partner_31,Hyderabad,Home Care Agency,16-04-2024
+P032,Partner_32,Hyderabad,Diagnostic Center,14-03-2024
+P033,Partner_33,Outskirts,Diagnostic Center,29-12-2024
+P034,Partner_34,Secunderabad,Diagnostic Center,18-11-2024
+P035,Partner_35,Secunderabad,Diagnostic Center,24-01-2024
+P036,Partner_36,Hyderabad,Diagnostic Center,30-03-2024
+P037,Partner_37,Outskirts,Home Care Agency,24-06-2024
+P038,Partner_38,Hyderabad,Diagnostic Center,23-09-2024
+P039,Partner_39,Hyderabad,Home Care Agency,25-05-2024
+P040,Partner_40,Cyberabad,Diagnostic Center,03-05-2024
+P041,Partner_41,Cyberabad,Diagnostic Center,04-07-2024
+P042,Partner_42,Cyberabad,Home Care Agency,07-08-2024
+P043,Partner_43,Secunderabad,Home Care Agency,28-04-2024
+P044,Partner_44,Outskirts,Diagnostic Center,27-09-2024
+P045,Partner_45,Outskirts,Home Care Agency,01-04-2024
+P046,Partner_46,Outskirts,Diagnostic Center,06-01-2024
+P047,Partner_47,Outskirts,Diagnostic Center,26-01-2024
+P048,Partner_48,Cyberabad,Diagnostic Center,19-02-2024
+P049,Partner_49,Secunderabad,Diagnostic Center,19-09-2024
+P050,Partner_50,Secunderabad,Diagnostic Center,15-05-2024
+P051,Partner_51,Cyberabad,Diagnostic Center,26-07-2024
+P052,Partner_52,Secunderabad,Diagnostic Center,22-03-2024
+P053,Partner_53,Cyberabad,Diagnostic Center,29-07-2024
+P054,Partner_54,Outskirts,Diagnostic Center,20-11-2024
+P055,Partner_55,Cyberabad,Home Care Agency,05-07-2024
+P056,Partner_56,Outskirts,Diagnostic Center,11-12-2024
+P057,Partner_57,Outskirts,Diagnostic Center,19-05-2024
+P058,Partner_58,Hyderabad,Home Care Agency,27-03-2024
+P059,Partner_59,Cyberabad,Diagnostic Center,05-03-2024
+P060,Partner_60,Hyderabad,Diagnostic Center,05-09-2024
+P061,Partner_61,Cyberabad,Diagnostic Center,12-06-2024
+P062,Partner_62,Cyberabad,Diagnostic Center,06-08-2024
+P063,Partner_63,Hyderabad,Home Care Agency,10-06-2024
+P064,Partner_64,Hyderabad,Home Care Agency,21-02-2024
+P065,Partner_65,Cyberabad,Diagnostic Center,08-12-2024
+P066,Partner_66,Secunderabad,Home Care Agency,21-06-2024
+P067,Partner_67,Outskirts,Home Care Agency,24-07-2024
+P068,Partner_68,Hyderabad,Diagnostic Center,02-08-2024
+P069,Partner_69,Outskirts,Home Care Agency,28-11-2024
+P070,Partner_70,Secunderabad,Diagnostic Center,30-03-2024
+P071,Partner_71,Secunderabad,Home Care Agency,05-01-2024
+P072,Partner_72,Secunderabad,Home Care Agency,02-05-2024
+P073,Partner_73,Hyderabad,Diagnostic Center,10-12-2024
+P074,Partner_74,Secunderabad,Diagnostic Center,07-06-2024
+P075,Partner_75,Hyderabad,Diagnostic Center,27-11-2024
+P076,Partner_76,Secunderabad,Diagnostic Center,19-11-2024
+P077,Partner_77,Outskirts,Home Care Agency,04-12-2024
+P078,Partner_78,Outskirts,Home Care Agency,23-03-2024
+P079,Partner_79,Cyberabad,Diagnostic Center,25-12-2024
+P080,Partner_80,Outskirts,Diagnostic Center,30-12-2024
+P081,Partner_81,Cyberabad,Diagnostic Center,30-06-2024
+P082,Partner_82,Outskirts,Diagnostic Center,09-12-2024
+P083,Partner_83,Hyderabad,Diagnostic Center,23-05-2024
+P084,Partner_84,Outskirts,Diagnostic Center,27-07-2024
+P085,Partner_85,Cyberabad,Home Care Agency,09-04-2024
+P086,Partner_86,Cyberabad,Diagnostic Center,19-07-2024
+P087,Partner_87,Secunderabad,Diagnostic Center,21-12-2024
+P088,Partner_88,Hyderabad,Home Care Agency,15-10-2024
+P089,Partner_89,Outskirts,Diagnostic Center,21-04-2024
+P090,Partner_90,Secunderabad,Home Care Agency,21-06-2024
+P091,Partner_91,Outskirts,Home Care Agency,01-07-2024
+P092,Partner_92,Outskirts,Diagnostic Center,23-12-2024
+P093,Partner_93,Secunderabad,Diagnostic Center,09-09-2024
+P094,Partner_94,Secunderabad,Diagnostic Center,04-12-2024
+P095,Partner_95,Secunderabad,Diagnostic Center,16-04-2024
+P096,Partner_96,Secunderabad,Diagnostic Center,16-01-2024
+P097,Partner_97,Secunderabad,Diagnostic Center,30-01-2024
+P098,Partner_98,Outskirts,Diagnostic Center,02-01-2024
+P099,Partner_99,Secunderabad,Diagnostic Center,03-02-2024
+P100,Partner_100,Hyderabad,Diagnostic Center,16-06-2024
