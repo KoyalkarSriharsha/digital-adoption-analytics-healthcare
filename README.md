@@ -1,7 +1,8 @@
 # Digital Adoption Analytics – Healthcare Partner Ecosystem
 
 ### 📌 Project Overview
-**Goal:** Improve operational efficiency and digital adoption across a healthcare partner ecosystem (Diagnostic Centers & Home Care Agencies). 
+**Goal:** Improve operational efficiency and digital adoption across a healthcare partner ecosystem (Diagnostic Centers & Home Care Agencies).
+
 **Context:** The business relies on partners adopting digital tools (Portals, APIs) to reduce Turnaround Time (TAT) and improve network quality. This simulated project analyzes adoption gaps and segments partners for strategic intervention.
 
 ---
